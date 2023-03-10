@@ -6,8 +6,6 @@ for I in range (5) :
    
    
 ```
-
-
 ![Figure 1](https://eraser.imgix.net/workspaces/MQ7qFaiEI2GfkhnUlDCx/Bjo7kRg8pdcCW72TAajRDdHSSFs2/---figure---PkR6GxT6RVrfLZqrbYK0-w.svg?ixlib=js-3.7.0 "Figure 1")
 
 
